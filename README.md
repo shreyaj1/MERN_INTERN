@@ -1,5 +1,4 @@
 # Portfolio-Maker
-# Portfolio-Maker
 
 Portfolio-Maker is a simple and customizable tool to help users create professional portfolio websites quickly. It features responsive design and easy customization options to showcase your skills, projects, and experience in a clean, modern layout. Ideal for developers, designers, and creatives who want to present their work online effortlessly.
 
