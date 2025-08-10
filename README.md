@@ -26,32 +26,4 @@ Future versions will include:
 1) Option for Resume upload.
 2) Making the app mobile friendly.
 
-#### The application(which coincides with my own portfolio): https://nachiket-trivedi.github.io
- 
-#### A YouTube video delineating the application: https://www.youtube.com/watch?v=SP6cW52_lvQ 
 
-
-
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img1.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img2.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img3.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img4.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img5.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img6.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img7.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img8.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img9.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img10.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img11.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img12.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img13.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img14.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img15.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img16.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img17.png?raw=true)
-![](https://github.com/nachiket-trivedi/Portfolio-Maker/blob/master/images/img18.png?raw=true)
-
-
-
-I would like to thank Mr. Hashir Shoaeb for inspiration and Evolko, inc. for providing me a platform where I can expand my skillsets in web development. 
-In case of queries/suggestions, feel free to reach out to me at nachiket5197@gmail.com. Always happy to help :)
