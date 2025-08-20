@@ -5,7 +5,6 @@ const fs = require("fs");
 
 const app = express();
 
-// Middleware
 app.use((req, res, next) => {
   res.header("Access-Control-Allow-Origin", "*");
   res.header("Access-Control-Allow-Headers", "*");
@@ -18,7 +17,7 @@ app.use(
   })
 );
 
-// ✅ Allow requests only from your GitHub Pages URL (replace later with Netlify URL)
+//  Allow requests only from GitHub Pages URL (replace later with Netlify URL)
 app.use(
   cors({
     origin: "https://shreyaj1.github.io", // <-- your GitHub Pages frontend
@@ -28,7 +27,7 @@ app.use(
 
 // Routes
 app.get("/", (req, res) => {
-  res.send("✅ Backend is running successfully 🚀");
+  res.send(" Backend is running successfully ");
 });
 
 app.post("/handleUserData", (req, res) => {
@@ -105,7 +104,6 @@ app.post("/handleUserData", (req, res) => {
     let packagejsonObj = JSON.parse(
       fs.readFileSync("./downloadableProject/package.json").toString()
     );
-    // ✅ dynamically set homepage based on provided githubId
     packagejsonObj["homepage"] = "https://" + githubId + ".github.io";
     let packagejson = JSON.stringify(packagejsonObj);
 
@@ -136,11 +134,11 @@ app.post("/handleUserData", (req, res) => {
     };
     res.send(userSiteFiles);
   } catch (error) {
-    console.error("❌ Error handling user data:", error);
+    console.error("Error handling user data:", error);
     res.status(500).send({ error: "Server error while processing data" });
   }
 });
 
-// ✅ Use Render's assigned port
+
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`✅ Server listening on port ${PORT}`));
+app.listen(PORT, () => console.log(`Server listening on port ${PORT}`));
